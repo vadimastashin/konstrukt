@@ -8,6 +8,11 @@ html {
     box-sizing: inherit;
 }
 
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
 .container {
     width: 100%;
     max-width: 1440px;
@@ -15,9 +20,17 @@ html {
     padding: 0 250px;
 }
 
+h1 {
+    text-transform: uppercase;
+}
+
 body {
     margin: 0;
     font-family: Open Sans, sans-serif;
+}
+
+.container {
+    width:
 }
 
 
